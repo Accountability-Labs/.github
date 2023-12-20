@@ -13,3 +13,8 @@ for the entire web.
 Here's an example of how Vox works:
 
 https://github.com/Accountability-Labs/.github/assets/1316283/6d551d4b-5ab2-4226-af9a-a3fd3282ab4a
+
+## Installation
+
+Take a look at [our installation instructions](https://github.com/Accountability-Labs/vox-ext/wiki/Installation)
+to install the Vox browser extension.
